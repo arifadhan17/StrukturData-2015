@@ -1,0 +1,2 @@
+Pak, kalo 100000 angka terbesarnya, hasilnya gamau keluar pak, tapi kalo 1000 mau. Hasilnya seperti di screenshot.
+Jadi, saya ubah angka terbesarnya jadi 1000 pak, terima kasih.
