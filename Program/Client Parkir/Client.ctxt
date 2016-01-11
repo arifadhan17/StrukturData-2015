@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=ipStr\ port\ perintah
+comment0.target=java.lang.String\ perintah(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ 1.\ Buka\ socket\r\n\ 2.\ Ambil\ Input\ dan\ Output\ stream-nya\r\n\ 3.\ Ubah\ Stream-nya\ ke\ Reader\ dan\ Writer\r\n\ 4.\ Kirim\ satu\ perintah\ ke\ server\ dan\ \r\n\ 5.\ Tampung\ balasannya.\r\n\ 6.\ Tutup\ koneksi\r\n
+numComments=1
